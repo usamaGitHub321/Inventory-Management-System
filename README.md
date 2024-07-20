@@ -103,7 +103,7 @@ This basic Inventory Management System can be expanded with the following featur
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
